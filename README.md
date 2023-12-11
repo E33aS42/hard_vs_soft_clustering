@@ -18,3 +18,6 @@ contains 150 datapoints each having 4 different attributes and belonging to one 
 The goal will be to identify the class of each datapoint using a clustering model.
 
 [1] https://archive.ics.uci.edu/ml/index.php
+
+
+A detailed presentation of the project realization can read in the clustering_report.pdf file.
