@@ -20,4 +20,4 @@ The goal will be to identify the class of each datapoint using a clustering mode
 [1] https://archive.ics.uci.edu/ml/index.php
 
 
-A detailed presentation of the project realization can read in the clustering_report.pdf file.
+A detailed presentation of the project realization can be read in the clustering_report.pdf file.
